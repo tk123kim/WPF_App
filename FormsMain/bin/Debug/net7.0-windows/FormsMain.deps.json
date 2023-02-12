@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FormsMain/1.0.0": {
+        "dependencies": {
+          "Foundation": "1.0.0"
+        },
+        "runtime": {
+          "FormsMain.dll": {}
+        }
+      },
+      "Foundation/1.0.0": {
+        "runtime": {
+          "Foundation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormsMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foundation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

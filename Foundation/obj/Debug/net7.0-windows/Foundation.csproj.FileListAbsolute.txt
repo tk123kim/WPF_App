@@ -1,0 +1,12 @@
+D:\SRC\WPF\Study\WPF_App\Foundation\bin\Debug\net7.0-windows\Foundation.deps.json
+D:\SRC\WPF\Study\WPF_App\Foundation\bin\Debug\net7.0-windows\Foundation.dll
+D:\SRC\WPF\Study\WPF_App\Foundation\bin\Debug\net7.0-windows\Foundation.pdb
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.csproj.AssemblyReference.cache
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.AssemblyInfoInputs.cache
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.AssemblyInfo.cs
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.csproj.CoreCompileInputs.cache
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.dll
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\refint\Foundation.dll
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\Foundation.pdb
+D:\SRC\WPF\Study\WPF_App\Foundation\obj\Debug\net7.0-windows\ref\Foundation.dll
